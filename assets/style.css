@@ -1,6 +1,12 @@
 html {
-  font-size: 16px;
+  font-size: 18px;
+}
 
+/* абсолютні - px
+відносні - em (1уь = 100% від шрифта батьківського елемента) */
+
+h1 {
+  font-size: 2rem;
 }
 
 p {
@@ -8,15 +14,11 @@ p {
   font-size: 1rem;
   /* font-family */
 }
-/* абсолютні - px
-відносні - em (1уь = 100% від шрифта батьківського елемента) */
 
-h1 {
-  font-size: 2rem;
-}
 div {
   font-size: 1.5rem;
 }
+
 article {
   font-size: 2.25rem;
 }

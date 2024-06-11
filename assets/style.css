@@ -1,21 +1,22 @@
 html {
+  font-size: 16px;
 
 }
 
 p {
   /* text-align */
-  font-size: 1em;
+  font-size: 1rem;
   /* font-family */
 }
 /* абсолютні - px
 відносні - em (1уь = 100% від шрифта батьківського елемента) */
 
 h1 {
-  font-size: 2em;
+  font-size: 2rem;
 }
 div {
-  font-size: 1.5em;
+  font-size: 1.5rem;
 }
 article {
-  font-size: 2.25em;
+  font-size: 2.25rem;
 }

@@ -1,3 +1,14 @@
-* {
-  box-sizing: border-box;
+body {
+  font-size: 16px;
+}
+p {
+  /* text-align */
+  font-size: 1em;
+  /* font-family */
+}
+/* абсолютні - px
+відносні - em (1уь = 100% від шрифта батьківського елемента) */
+
+h1 {
+  font-size: 2em;
 }
